@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayminGajera
 - 👀 I’m interested in computing, travelling
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me > gajerajaymin9@gmail.com
 
 <!---
