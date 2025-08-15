@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayminGajera
 - 👀 I’m interested in computing, travelling
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning DevOps Concepts
 - 📫 How to reach me > gajerajaymin9@gmail.com
 
 <!---
