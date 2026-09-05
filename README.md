@@ -28,21 +28,21 @@ A production-grade, asynchronous backend architecture built to process high-conc
 *   **Infrastructure as Code (IaC):** Fully provisioned programmatically using **AWS CDK v2** in Python, establishing repeatable, human-error-free cloud deployments.
 *   **Quality Engineering & DevOps:** Standardized code compilation and delivery via a strict **GitHub Actions CI/CD pipeline** running automated linting (`flake8`) and offline testing loops (`pytest` + `moto`).
 
-                    ┌──────────────┐
-                    │  API Client  │
-                    └──────┬───────┘
-                           │ (FastAPI App via Docker)
-                           ▼
-                    ┌──────────────┐
-                    │ AWS ECS Fargate
-                    └──────┬───────┘
-                           │
-         ┌─────────────────┴─────────────────┐
-         ▼                                   ▼
-┌──────────────────┐               ┌──────────────────┐
-│     AWS S3       │               │   AWS DynamoDB   │
-│ (Secure Storage) │               │  (NoSQL Database)│
-└──────────────────┘               └──────────────────┘
+                             ┌──────────────┐
+                             │  API Client  │
+                             └──────┬───────┘
+                                    │ (FastAPI App via Docker)
+                                    ▼
+                             ┌──────────────┐
+                             │ AWS ECS Fargate
+                             └──────┬───────┘
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  ▼                                   ▼
+        ┌──────────────────┐                 ┌──────────────────┐
+        │     AWS S3       │                 │   AWS DynamoDB   │
+        │ (Secure Storage) │                 │  (NoSQL Database)│
+        └──────────────────┘                 └──────────────────┘
 
 
 👉 [Explore the Source Code & Architecture Setup →](https://github.com)
