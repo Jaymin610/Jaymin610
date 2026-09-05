@@ -20,7 +20,7 @@ I am a software engineer focused on building high-performance, asynchronous back
 
 ## 🚀 Flagship Portfolio Project
 
-### 📁 [Serverless Document Processing & Analytics API](https://github.com)
+### 📁 [Serverless Document Processing & Analytics API](https://github.com/Jaymin610/Serverless-Document-Processing-Analytics-API)
 A production-grade, asynchronous backend architecture built to process high-concurrency enterprise data workflows safely and cost-effectively.
 
 *   **The Architecture:** Built with **FastAPI** to facilitate non-blocking network I/O, streaming document layers directly into **AWS S3** while simultaneously tracking workflow ledger metadata in **AWS DynamoDB**.
@@ -45,11 +45,11 @@ A production-grade, asynchronous backend architecture built to process high-conc
         └──────────────────┘                 └──────────────────┘
 
 
-👉 [Explore the Source Code & Architecture Setup →](https://github.com)
+👉 [Explore the Source Code & Architecture Setup →](https://github.com/Jaymin610/Serverless-Document-Processing-Analytics-API)
 
 ---
 
 ## 📈 Git Analytics & Consistency
 Drop your standard GitHub stats blocks here or let your active green contribution graph speak for itself!
 
-📬 **Let's Connect:** [LinkedIn] https://www.linkedin.com/in/jaymin-gajera-oo9/ | [Email] jaymin.ngajera@gmail.com
+📬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/jaymin-gajera-oo9/) | [Email](jaymin.ngajera@gmail.com)
